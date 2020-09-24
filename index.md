@@ -1,17 +1,13 @@
 ---
-title: Fraser Lab 
+title: Mravic Lab
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
-{: .display-4}
+
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/). 
+Hello World.  We are hosted in the [Department of Integrative Structural and Computational Biology](https://www.scripps.edu/science-and-medicine/research-departments/integrative-structural-and-computational-biology/) at [The Scripps Research Institute](https://www.scripps.edu/) on the sunny seaside La Jolla, California campus. 
 {: .welcomefont}
 
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
-{: .welcomefont}
-
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
+We use protein design and integrative computational approaches to challenge our understanding of biomolecular structure, folding, and physical chemistry.  Our research focuses on delineating the active roles proteins' transmembranes domains play in biochemical events and disease through engineering synthetic membrane proteins and chemical biology tools targeting proteins directly at their lipid-embedded regions.   
 {: .welcomefont}

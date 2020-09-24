@@ -1,7 +1,7 @@
 name: "Mravic Lab"
 description: "Mravic Lab at The Scripps Research Institute, Dept. of Integrative Structural and Computational Biology"
 
-url: "http://mravic-lab.github.io"
+url: "http://mmravic314.github.io"
 
 paginate: 5
 plugins: [jekyll-paginate]

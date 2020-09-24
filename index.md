@@ -11,5 +11,5 @@ group: home
    We use protein design and integrative computational approaches to challenge our understanding of biomolecular structure, function, and physical chemistry.  
 <br>
 <br>
-   We study the complex molecular features of transmembrane domains and thier active roles in natural and disease-causing biological processes.   Our research focuses on data-driven design of synthetic membrane proteins as simple model molecules to ask fundamental biophysical questions and engineering custom chemical biology tools targeting proteins directly at their lipid-embedded regions.  
+   We study the complex molecular features of transmembrane domains and thier active roles in natural and disease-causing biological processes.  Our research focuses on data-driven design of synthetic membrane proteins as simple model molecules to ask fundamental biophysical questions and engineering custom chemical biology tools targeting proteins directly at their lipid-embedded regions.  
 {: .welcomefont}

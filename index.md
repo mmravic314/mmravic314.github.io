@@ -10,5 +10,6 @@ Hello World.  We are hosted in the [Department of Integrative Structural and Com
 {: .welcomefont}
 
 <br>
-We use protein design and integrative computational approaches to challenge our understanding of biomolecular structure, folding, and physical chemistry.  Our research focuses on delineating the active roles proteins' transmembranes domains play in biochemical events and disease through engineering synthetic membrane proteins and chemical biology tools targeting proteins directly at their lipid-embedded regions.   
+<br>
+We use protein design and integrative computational approaches to challenge our understanding of biomolecular structure, function, and physical chemistry.  Our research focuses on engineering synthetic membrane proteins as simple model molecules to ask fundamental biophysical questions and creating custom chemical biology tools targeting proteins directly at their lipid-embedded regions.  We study the complex molecular features and active roles of transmembrane domains in both natural and disease-related biochemical events.   
 {: .welcomefont}

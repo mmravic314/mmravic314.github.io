@@ -28,7 +28,7 @@ TDB description
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="qFit">
+<img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="Figure">
 </div>
 </div>
 <div class="row">
@@ -41,7 +41,7 @@ TDB description
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2018_keedy_hill.jpg" alt="ptp1b">
+<img class="img-fluid" src="/static/img/pub/2018_keedy_hill.jpg" alt="Figure">
 </div>
 </div>
 <div class="row">
@@ -55,7 +55,7 @@ TDB description
 
 <div class="col-md-3 order-md-2 align-self-center">
 
-<img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="antibiotic">
+<img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="Figure">
 </div>
 </div>
 <div class="row">

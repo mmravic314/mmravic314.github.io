@@ -23,4 +23,4 @@ Inquiries about Postdoctoral positions should be emailed directly to mmravic (AT
 
 ## Other 
 
-We are open to undergraduate interns, foreign exchange students, sabbatical visitors from academia and industry, post-bac technician, and other arrangements in the lab. 
+We are open to undergraduate interns, foreign exchange students, sabbatical visitors from academia and industry, post-bac technicians, and other arrangements in the lab. 

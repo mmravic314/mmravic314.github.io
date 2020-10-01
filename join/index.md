@@ -20,6 +20,7 @@ Scripps students apply to a single graduate program [(Skaggs Graduate School of 
 
 Inquiries about Postdoctoral positions should be emailed directly to mmravic (AT) scripps.edu. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
 
+
 ## Other 
 
-We are open to undergraduate interns, foreign exchange students, sabbatical visitors from academia and industry, post-bac technician, and other arrangements in the lab so long as researchers are fairly compensated for their work by their home institution or by us. 
+We are open to undergraduate interns, foreign exchange students, sabbatical visitors from academia and industry, post-bac technician, and other arrangements in the lab. 

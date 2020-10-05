@@ -32,7 +32,7 @@ TDB description
 <div class="col-md-5 order-md-2 align-self-center">
 <img class="img-fluid" src="/static/img/TM_antibody_design.png" alt="Figure">
 </div>
-</div>
+
 <div class="row">
 
 <br><br>

@@ -59,10 +59,9 @@ We mine databases of biomolecular structures to reveal trends of how protein ato
 
 <div class="col-md-3 order-md-2 align-self-center">
 
-<img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="Figure">
+<img class="img-fluid" src="/static/img/poreWaterOnly_v3.gif" alt="Figure">
 </div>
 </div>
 <div class="row">
-
-
+<img class="img-fluid" src="/static/img/simPacking_lipids.png" alt="Figure">
 </div>

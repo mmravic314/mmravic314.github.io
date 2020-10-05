@@ -7,18 +7,17 @@ group: home
    Hello World.  We are hosted in the [Department of Integrative Structural and Computational Biology](https://www.scripps.edu/science-and-medicine/research-departments/integrative-structural-and-computational-biology/) at [The Scripps Research Institute](https://www.scripps.edu/) on the sunny seaside La Jolla, California campus. 
 {: .welcomefont}
 <br>
+
 <div class="row">
-  <div class="column">
-     How Does this work?
-     <img src="static/img/xtal_pretty.png">
-  </div>
-  <div class="column">
-     How Does this work?
-  </div>
-  <div class="column">
-     How Does this work?
-  </div>
+### Bioinformatic data mining & molecular dynamics simulations of membrane proteins
+<br>
+<div class="col-md-7 order-md-1 ">
+
+<img class="img-fluid" src="static/img/xtal_pretty.png" alt="Figure">
+</div> 
+
 </div>
+
 <br>
    We use protein design and integrative computational approaches to challenge our understanding of biomolecular structure, function, and physical chemistry.  
 <br>

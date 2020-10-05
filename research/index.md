@@ -22,7 +22,7 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
       <img class="img-fluid" src="/static/img/Xray_packingXtal.png" alt="FigureXX">
     </div>
   </div>
-</div>
+
 
 
 

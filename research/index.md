@@ -15,12 +15,11 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 
  <div class="col-md-7 order-md-3">
     <img class="img-fluid" src="/static/img/MemProt_SeqDesign.png">
-</div>
+ </div>
  <div class="col-md-5 order-md-2 align-self-center">
     <img class="img-fluid" src="/static/img/Xray_packingXtal.png">
  </div>
-</div>
- <div class="col-md-3 order-md-1 align-self-center">
+ <div class="col-md-5 order-md-1 align-self-center">
     <img class="img-fluid" src="/static/img/Clean_Monomer-mEpoR_600x_assigned.png">
  </div>
 </div>
@@ -29,7 +28,6 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 <br><br>
 <div class="row">
   
- 
 ###  Targeting membrane proteins directly by their lipid-embedded domains: Transmembrane "antibody" peptides & miniproteins
 <br>
 <div class="col-md-7 order-md-1">

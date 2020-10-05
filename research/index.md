@@ -11,7 +11,7 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 
 ### We use computational design alongside protein chemistry, NMR, crystallography, and biophysical techniques to challenge our understanding of membrane protein physical chemistry and molecular events in disease. 
 <br>
-</div>
+
 
 <div class="container">
   <div class="row">
@@ -24,11 +24,10 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
   </div>
 </div>
 
-<br>
 
-</div>
 
-<div class="row">
+
+
 
 ###  Targeting membrane proteins directly by their lipid-embedded domains: Transmembrane "antibody" peptides & miniproteins
 

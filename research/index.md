@@ -4,10 +4,6 @@ layout: default
 group: research
 ---
 
-<!-- <img class="img-fluid mx-auto d-block" src="/static/img/fraseratucsf.jpg" alt="Membrane Protein Design & Molecular Biophysics @ TSRI">
- -->
-<div class="row">
-
 # Membrane protein design & molecular biophysics 
 
 
@@ -16,8 +12,17 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 ### We use computational design alongside protein chemistry, NMR, crystallography, and biophysical techniques to challenge our understanding of membrane protein physical chemistry and molecular events in disease. 
 <br>
 </div>
-<div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/MemProt_SeqDesign.png" alt="FigureXX"><img class="img-fluid" src="/static/img/Xray_packingXtal.png" alt="FigureXX">
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <img class="img-fluid" src="/static/img/MemProt_SeqDesign.png" alt="FigureXX">
+    </div>
+    <div class="col">
+      <img class="img-fluid" src="/static/img/Xray_packingXtal.png" alt="FigureXX">
+    </div>
+  </div>
+
 
 <br>
 

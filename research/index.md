@@ -9,10 +9,9 @@ group: research
 
 We pair biophysical theory (energy calculations + atomic simulations) with informatic mining of molecular databases to derive data-driven hypotheses for how membrane proteins fold.  This engineering approach allows us to stabilize new custom membrane proteins and novel lipid-embedded protein-protein interaction partners from scratch.   <br><br>
 
-<div class="row">
+
 ##### We use computational design alongside protein chemistry, NMR, crystallography, and biophysical techniques to challenge our understanding of membrane protein physical chemistry and molecular events in disease. 
 <br>
-
  <div class="col-md-7 order-md-3">
     <img class="img-fluid" src="/static/img/MemProt_SeqDesign.png">
  </div>
@@ -22,7 +21,7 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
  <div class="col-md-5 order-md-1 align-self-center">
     <img class="img-fluid" src="/static/img/Clean_Monomer-mEpoR_600x_assigned.png">
  </div>
-</div>
+
 
   
 <br><br>

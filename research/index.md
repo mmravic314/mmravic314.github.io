@@ -12,14 +12,15 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 ### We use computational design alongside protein chemistry, NMR, crystallography, and biophysical techniques to challenge our understanding of membrane protein physical chemistry and molecular events in disease. 
 <br>
 
+<div class="row">
+  <div class="column">
       <img class="img-fluid" src="/static/img/MemProt_SeqDesign.png" alt="FigureXX">
-  
       <img class="img-fluid" src="/static/img/Xray_packingXtal.png" alt="FigureXX">
-   
+  </div>
 
-
-
-
+</div>
+      
+<br><br>
 
 
 ###  Targeting membrane proteins directly by their lipid-embedded domains: Transmembrane "antibody" peptides & miniproteins
@@ -34,6 +35,8 @@ TDB description
 </div>
 </div>
 <div class="row">
+
+<br><br>
 
 ### Design of simple synthetic model membrane proteins to directly test fundamental biophysical questions
 

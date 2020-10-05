@@ -12,17 +12,10 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 ### We use computational design alongside protein chemistry, NMR, crystallography, and biophysical techniques to challenge our understanding of membrane protein physical chemistry and molecular events in disease. 
 <br>
 
-
-<div class="container">
-  <div class="row">
-    <div class="col">
       <img class="img-fluid" src="/static/img/MemProt_SeqDesign.png" alt="FigureXX">
-    </div>
-    <div class="col">
+  
       <img class="img-fluid" src="/static/img/Xray_packingXtal.png" alt="FigureXX">
-    </div>
-  </div>
-
+   
 
 
 

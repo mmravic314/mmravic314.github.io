@@ -42,7 +42,7 @@ TDB description
 
 <div class="col-md-7 order-md-2">
 
-TDB description
+We are interested in the design & engineering principles for constructing membrane proteins, applied to make new custom proteins for biotechnology applications or to understand natural proteins in disease.  Classic approaches to study fundamental biophysics questions often require studying a known membrane protein, which can be large, complex, and difficult to handle thus posing obstacles to clear biochemical interpretation.  We instead use protein design as an approach to construct small simple synthetic memrbane proteins as easy-to-study model proteins used to ask basic and generalized questions concerning protein physical chemistry in the unfamiliar non-aqueous environment of lipid bilayers. 
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
@@ -55,8 +55,8 @@ TDB description
 
 <div class="col-md-7 order-md-1 ">
 
-TDB description
-</div>
+We mine databases of biomolecular structures to reveal trends of how protein atomic groups preferrentially interact, informing our design of new functional and stably folded proteins.  Our groups is focused on computational approaches for integrating sequence-structure relationships into atomic models for both synthetic and natural membrane proteins.  We pioneer approaches to inegrates a myriad of distinct biochemical data into atomic protein models and molecular dynamics simulations in efforts to reveal relevant protein conformations, stabilizing motifs, and dynamics instrumental to stucture, function, and evolution - typically within the hydrophobic water-devoid lipid membrane milieu.
+</div> 
 
 <div class="col-md-3 order-md-2 align-self-center">
 

@@ -11,13 +11,12 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 
 ### We use computational design alongside protein chemistry, NMR, crystallography, and biophysical techniques to challenge our understanding of membrane protein physical chemistry and molecular events in disease. 
 <br>
-TEST 
+TEST2 
 <div class="row">
   <div class="column">
-      <img class="img-fluid" src="/static/img/MemProt_SeqDesign.png" alt="FigureXX">
-      <img class="img-fluid" src="/static/img/Xray_packingXtal.png" alt="FigureXX">
+      <img src="/static/img/MemProt_SeqDesign.png">
+      <img src="/static/img/Xray_packingXtal.png">
   </div>
-
 </div>
       
 <br><br>
@@ -42,7 +41,7 @@ TDB description
 
 <div class="col-md-7 order-md-2">
 
-We are interested in the design  principles for constructing membrane proteins, which we then apply to engineering custom synthetic proteins for biotechnology applications or to understand natural proteins in disease.  Classically, biophysics & biochemistry researchers try to assess general theories by studying specific, well-known model membrane proteins, which are often large, complex, and poorly behaved (a PhD student's nightmare), thus can cloud biochemical interpretation.  We instead use protein design as an approach to construct small simple synthetic membrane proteins as easy-to-study model proteins, customized to ask basic and generalized 'textbook' questions concerning protein physical chemistry in the unfamiliar non-aqueous environment of lipid bilayers. 
+We are interested in the design  principles for constructing membrane proteins, which we then apply to engineering custom synthetic proteins for biotechnology applications or to understand natural proteins in disease.  Classically, biophysics & biochemistry researchers try to assess general theories by studying specific well-known model membrane proteins which are often large, complex, and poorly behaved (a PhD student's nightmare) thus can cloud biochemical interpretation.  We instead use protein design as an approach to construct small simple synthetic membrane proteins as easy-to-study model proteins, custom made to ask direct and basic and generalized 'textbook' questions concerning protein physical chemistry in the unfamiliar non-aqueous environment of lipid bilayers. 
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">

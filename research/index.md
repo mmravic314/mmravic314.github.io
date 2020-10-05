@@ -17,8 +17,7 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 <br>
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/MemProt_SeqDesign.png" alt="FigureXX">
-</div>
+<img class="img-fluid" src="/static/img/MemProt_SeqDesign.png" alt="FigureXX"><img class="img-fluid" src="/static/img/Xray_packingXtal.png" alt="FigureXX">
 
 <br>
 

@@ -22,8 +22,6 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
     <img class="img-fluid" src="/static/img/Clean_Monomer-mEpoR_600x_assigned.png">
  </div>
 
-
-  
 <br><br>
 <div class="row">
   
@@ -57,7 +55,7 @@ We are interested in the design  principles for constructing membrane proteins, 
 <div class="row">
 ### Bioinformatic data mining & molecular dynamics simulations of membrane proteins
 <br>
-<div class="col-md-7 order-md-1 ">
+<div class="col-md-7 order-md-1">
 
 We mine databases of biomolecular structures to reveal trends of how protein atomic groups preferrentially interact, informing our design of new functional and stably folded proteins.  Our groups is focused on computational approaches for integrating sequence-structure relationships into atomic models for both synthetic and natural membrane proteins.  We pioneer approaches to inegrates a myriad of distinct biochemical data into atomic protein models and molecular dynamics simulations in efforts to reveal relevant protein conformations, stabilizing motifs, and dynamics instrumental to stucture, function, and evolution - typically within the hydrophobic water-devoid lipid membrane milieu.
 </div> 
@@ -67,8 +65,6 @@ We mine databases of biomolecular structures to reveal trends of how protein ato
  </div>
 </div>
 
-<div class="row">
- <div class="col-md-3 order-md-2 align-self-center">
+ <div class="col-md-3 order-md-3 align-self-center">
    <img class="img-fluid" src="/static/img/simPacking_lipids.png" alt="Figure">
  </div>
-</div>

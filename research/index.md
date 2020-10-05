@@ -46,7 +46,7 @@ TDB description
 
 <div class="col-md-7 order-md-2">
 
-We are interested in the design & engineering principles for constructing membrane proteins, applied to make new custom proteins for biotechnology applications or to understand natural proteins in disease.  Classic approaches to study fundamental biophysics questions often require studying a known membrane protein, which can be large, complex, and difficult to handle thus posing obstacles to clear biochemical interpretation.  We instead use protein design as an approach to construct small simple synthetic memrbane proteins as easy-to-study model proteins used to ask basic and generalized questions concerning protein physical chemistry in the unfamiliar non-aqueous environment of lipid bilayers. 
+We are interested in the design  principles for constructing membrane proteins, which we then apply to engineering custom synthetic proteins for biotechnology applications or to understand natural proteins in disease.  Classically, biophysics & biochemistry researchers try to assess general theories by studying specific, well-known model membrane proteins, which are often large, complex, and poorly behaved (a PhD student's nightmare), thus can cloud biochemical interpretation.  We instead use protein design as an approach to construct small simple synthetic membrane proteins as easy-to-study model proteins, customized to ask basic and generalized 'textbook' questions concerning protein physical chemistry in the unfamiliar non-aqueous environment of lipid bilayers. 
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">

@@ -35,7 +35,7 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 TDB description
 
 </div>
-<div class="col-md-5 order-md-2 align-self-center">
+<div class="col-md-3 order-md-2 align-self-center">
 <img class="img-fluid" src="/static/img/TM_antibody_design.png" alt="Figure">
 </div>
 
@@ -50,7 +50,7 @@ TDB description
 We are interested in the design  principles for constructing membrane proteins, which we then apply to engineering custom synthetic proteins for biotechnology applications or to understand natural proteins in disease.  Classically, biophysics & biochemistry researchers try to assess general theories by studying specific well-known model membrane proteins which are often large, complex, and poorly behaved (a PhD student's nightmare) thus can cloud biochemical interpretation.  We instead use protein design as an approach to construct small simple synthetic membrane proteins as easy-to-study model proteins, custom made to ask direct and basic and generalized 'textbook' questions concerning protein physical chemistry in the unfamiliar non-aqueous environment of lipid bilayers. 
 </div>
 
-<div class="col-md-5 order-md-1 align-self-center">
+<div class="col-md-3 order-md-1 align-self-center">
 <img class="img-fluid" src="/static/img/PL5_x-ray.png" alt="Figure">
 </div>
 </div>

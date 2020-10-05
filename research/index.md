@@ -17,7 +17,7 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 <br>
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="FigureXX">
+<img class="img-fluid" src="/static/img/MemProt_SeqDesign.png" alt="FigureXX">
 </div>
 
 <br>
@@ -34,7 +34,7 @@ TDB description
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="Figure">
+<img class="img-fluid" src="/static/img/TM_antibody_design.png" alt="Figure">
 </div>
 </div>
 <div class="row">
@@ -47,7 +47,7 @@ TDB description
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2018_keedy_hill.jpg" alt="Figure">
+<img class="img-fluid" src="/static/img/PL5_x-ray.png" alt="Figure">
 </div>
 </div>
 <div class="row">

@@ -43,7 +43,7 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 
 
 ### Bioinformatic data mining & molecular dynamics simulations of membrane proteins
-<p><img src="/static/img/poreWaterOnly_v3.gif" alt="Smiley face" style="float:right;width:120px;height:240px;">
+<p><img src="/static/img/poreWaterOnly_v3.gif" alt="Smiley face" style="float:right;width:320px;height:320px;">
 
 We mine databases of biomolecular structures to reveal trends of how protein atomic groups preferrentially interact, informing our design of new functional and stably folded proteins.  Our groups is focused on computational approaches for integrating sequence-structure relationships into atomic models for both synthetic and natural membrane proteins.  We pioneer approaches for integrating diverse forms of biochemical data into atomic protein models and molecular dynamics simulations to reveal relevant protein conformations, stabilizing motifs, and dynamics instrumental to stucture, function, and evolution - typically within the hydrophobic water-devoid lipid membrane milieu.</p>
 

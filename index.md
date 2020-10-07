@@ -8,7 +8,7 @@ group: home
 {: .welcomefont}
 <br>
 <div class="row">
-<div class="col-md-9 order-md-2 align-self-center">
+<div class="col-md-11 order-md-1 align-self-center">
 <img class="img-fluid" src="static/img/xtal_pretty.png" alt="Figure">
 </div> 
 

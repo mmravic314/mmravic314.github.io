@@ -12,10 +12,10 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 
 <div class="row">
 ##### We use computational design alongside protein total synthesis, NMR, crystallography, and biophysical techniques to challenge our understanding of membrane protein physical chemistry and molecular events in disease. 
-  <div class="col">
+  <div class="col-md">
    <img class="img-fluid" src="/static/img/MemProt_SeqDesign.png">
   </div>
-  <div class="col">
+  <div class="col-md">
    <img class="img-fluid" src="/static/img/Xray_packingXtal.png">
   </div>
  </div>
@@ -25,17 +25,17 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 
 ###  Targeting membrane proteins directly by their lipid-embedded domains: Transmembrane "antibody" miniproteins
 <div class="row">
-  <div class="col">
+  <div class="col-md">
    We develop and apply computational algorithms to design small lipophilic proteins from scratch that bind proteins directly at their transmembrane domains to alter the structural and functional states.  These custom chemical probes allow us to dissect the active role TM domains play in signaling and transducing protein conformational changes as well as stabling critical states for structural studies (X-ray/EM).  Thus, membrane proteins without considerable folded water-soluble domains can still be targeted at their 'achilles heel' TM domains. 
   </div>
-  <div class="col">
+  <div class="col-md">
    <img class="img-fluid" src="/static/img/TM_antibody_design.png" alt="Figure">
   </div>
 </div>
 
 <br><br>
 ###  Design of simple synthetic model membrane proteins to directly test fundamental biophysical questions
-  <div class="col">
+  <div class="col-md">
    We are interested in the design  principles for constructing membrane proteins, which we then apply to engineering custom synthetic proteins for biotechnology applications or to understand natural proteins in disease.  Classically, biophysics & biochemistry researchers try to assess general theories by studying specific well-known model membrane proteins which are often large, complex, and poorly behaved (a PhD student's nightmare) thus can cloud biochemical interpretation.  We instead use protein design as an approach to construct small simple synthetic membrane proteins as easy-to-study model proteins, custom made to ask direct and basic and generalized 'textbook' questions concerning protein physical chemistry in the unfamiliar non-aqueous environment of lipid bilayers. 
   </div>
  <div class="row">
@@ -52,7 +52,7 @@ We mine databases of biomolecular structures to reveal trends of how protein ato
   <div class="col-md-auto">
    <img class="img-fluid" src="/static/img/simPacking_lipids.png">
   </div>
-  <div class="col-lg-2">
+  <div class="col-md-2">
    <img class="img-fluid" src="/static/img/poreWaterOnly_v3.gif.png">
   </div>
  </div>

@@ -7,18 +7,15 @@ group: research
 # Membrane protein design & molecular biophysics 
 
 
-We pair biophysical theory (energy calculations + atomic simulations) with informatic mining of molecular databases to derive data-driven hypotheses for how membrane proteins fold.  This engineering approach allows us to stabilize new custom membrane proteins and novel lipid-embedded protein-protein interaction partners from scratch.   TEST<br><br>
+We pair biophysical theory (energy calculations + atomic simulations) with informatic mining of molecular databases to derive data-driven hypotheses for how membrane proteins fold.  This engineering approach allows us to stabilize new custom membrane proteins and novel lipid-embedded protein-protein interaction partners from scratch.   TEST2<br><br>
 
 
-
+<div class="row">
 ##### We use computational design alongside protein chemistry, NMR, crystallography, and biophysical techniques to challenge our understanding of membrane protein physical chemistry and molecular events in disease. 
-<br>
+
 <div class="col-md-7 order-md-1">
 <img class="img-fluid" src="/static/img/MemProt_SeqDesign.png">
-</div> 
-
-<div class="col-md-5 order-md-2 align-self-center">
- <img class="img-fluid" src="/static/img/Xray_packingXtal.png">
+<img class="img-fluid" src="/static/img/Xray_packingXtal.png">
  </div>
 
 <br><br>
@@ -32,16 +29,6 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
  <div class="col-md-3 order-md-2 align-self-center">
     <img class="img-fluid" src="/static/img/TM_antibody_design.png" alt="Figure">
  </div>
-</div>
-
-<div class="row">
-### Bioinformatic data mining & molecular dynamics simulations of membrane proteins
-<br>
-<div class="col-md-7 order-md-1">
-TDB Description
-<img class="img-fluid" src="/static/img/TM_antibody_design.png" alt="Figure">
-</div> 
-
 
 
 
@@ -58,7 +45,7 @@ We are interested in the design  principles for constructing membrane proteins, 
  <div class="col-md-7 order-md-1 align-self-center">
  <img class="img-fluid" src="/static/img/PL5_x-ray.png" alt="Figure">
  </div>
-</div>
+
 
 <div class="row">
 ### Bioinformatic data mining & molecular dynamics simulations of membrane proteins
@@ -72,6 +59,6 @@ We mine databases of biomolecular structures to reveal trends of how protein ato
 <div class="col-md-5 order-md-2 align-self-center">
   <img class="img-fluid" src="/static/img/poreWaterOnly_v3.gif" alt="Figure">
  </div>
-</div>
+
 
 

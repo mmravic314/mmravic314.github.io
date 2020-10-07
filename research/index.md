@@ -37,7 +37,7 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 ###  Design of simple synthetic model membrane proteins to directly test fundamental biophysical questions
    We are interested in the design  principles for constructing membrane proteins, which we then apply to engineering custom synthetic proteins for biotechnology applications or to understand natural proteins in disease.  Classically, biophysics & biochemistry researchers try to assess general theories by studying specific well-known model membrane proteins which are often large, complex, and poorly behaved (a PhD student's nightmare) thus can cloud biochemical interpretation.  We instead use protein design as an approach to construct small simple synthetic membrane proteins as easy-to-study model proteins, custom made to ask direct and basic and generalized 'textbook' questions concerning protein physical chemistry in the unfamiliar non-aqueous environment of lipid bilayers. 
 
-<img class="img-fluid" src="/static/img/PL5_x-ray.png" width="300" height="400">
+<img class="img-fluid" src="/static/img/PL5_x-ray.png" width="400" height="400">
 
 
 <br><br>

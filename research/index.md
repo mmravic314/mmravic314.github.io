@@ -4,7 +4,7 @@ layout: default
 group: research
 ---
 <div class="container">
-TEST5
+TEST6
 # Membrane protein design & molecular biophysics 
 
 <br>
@@ -36,7 +36,7 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 
 <div class="row">
 ###  Design of simple synthetic model membrane proteins to directly test fundamental biophysical questions
-  <div class="col-md">
+  <div class="col-md-auto">
 <img class="img" src="/static/img/PL5_x-ray.png">
   </div>
   <div class="col">
@@ -49,10 +49,10 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 
 <div class="row">
 ### Bioinformatic data mining & molecular dynamics simulations of membrane proteins
-   <div class="col">
+   <div class="col-md-auto">
 <br>We mine databases of biomolecular structures to reveal trends of how protein atomic groups preferrentially interact, informing our design of new functional and stably folded proteins.  Our groups is focused on computational approaches for integrating sequence-structure relationships into atomic models for both synthetic and natural membrane proteins.  We pioneer approaches for integrating diverse forms of biochemical data into atomic protein models and molecular dynamics simulations to reveal relevant protein conformations, stabilizing motifs, and dynamics instrumental to stucture, function, and evolution - typically within the hydrophobic water-devoid lipid membrane milieu.
    </div> 
-   <div class="col-sm">
+   <div class="col-lg-2">
     <img class="img" src="/static/img/poreWaterOnly_v3.gif" alt="Figure">
    </div> 
   </div>

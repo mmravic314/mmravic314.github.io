@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-   Hello World.  We are hosted in the [Department of Integrative Structural and Computational Biology](https://www.scripps.edu/science-and-medicine/research-departments/integrative-structural-and-computational-biology/) at [The Scripps Research Institute](https://www.scripps.edu/) on the sunny seaside La Jolla, California campus. 
+We are hosted in the [Department of Integrative Structural and Computational Biology](https://www.scripps.edu/science-and-medicine/research-departments/integrative-structural-and-computational-biology/) at [The Scripps Research Institute](https://www.scripps.edu/) on the sunny seaside La Jolla, California campus. 
 {: .welcomefont}
 <br>
 <div class="row">
@@ -14,5 +14,5 @@ group: home
 <br>
    We use protein design and integrative computational approaches to challenge our understanding of biomolecular structure, function, and physical chemistry.  
 <br>
-   We study the complex molecular features of transmembrane domains and thier active roles in natural and disease-causing biological processes.  Our research focuses on data-driven design of synthetic membrane proteins as simple model molecules to ask fundamental biophysical questions and engineering custom chemical biology tools targeting proteins directly at their lipid-embedded regions.  
+   Our research focuses on data-driven design of synthetic membrane proteins.  This includes (a) as simple model molecules to ask fundamental biophysical questions and (b) engineering custom chemical biology tools targeting proteins directly at their lipid-embedded regions.  An overarching theme in the lab is studying the complex molecular features of transmembrane domains and their active roles in essential biological processes.
 {: .welcomefont}

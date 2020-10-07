@@ -8,11 +8,8 @@ group: home
 {: .welcomefont}
 <br>
 <div class="row">
-<div class="col-md-11 order-md-1 align-self-center">
 <img class="img-fluid" src="static/img/xtal_pretty.png" alt="Figure">
 </div> 
-
-</div>
 
 <br>
    We use protein design and integrative computational approaches to challenge our understanding of biomolecular structure, function, and physical chemistry.  

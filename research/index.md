@@ -11,33 +11,14 @@ We pair biophysical theory (energy calculations + atomic simulations) with infor
 
 
 
-<div class="row">
-### Bioinformatic data mining & molecular dynamics simulations of membrane proteins
+##### We use computational design alongside protein chemistry, NMR, crystallography, and biophysical techniques to challenge our understanding of membrane protein physical chemistry and molecular events in disease. 
 <br>
 <div class="col-md-7 order-md-1">
-
-We mine databases of biomolecular structures to reveal trends of how protein atomic groups preferrentially interact, informing our design of new functional and stably folded proteins.  Our groups is focused on computational approaches for integrating sequence-structure relationships into atomic models for both synthetic and natural membrane proteins.  We pioneer approaches for integrating diverse forms of biochemical data into atomic protein models and molecular dynamics simulations to reveal relevant protein conformations, stabilizing motifs, and dynamics instrumental to stucture, function, and evolution - typically within the hydrophobic water-devoid lipid membrane milieu.
-<img class="img-fluid" src="/static/img/simPacking_lipids.png" alt="Figure">
+<img class="img-fluid" src="/static/img/MemProt_SeqDesign.png">
 </div> 
 
 <div class="col-md-5 order-md-2 align-self-center">
-  <img class="img-fluid" src="/static/img/poreWaterOnly_v3.gif" alt="Figure">
- </div>
-</div>
-
-
-
-<div class="row">
-##### We use computational design alongside protein chemistry, NMR, crystallography, and biophysical techniques to challenge our understanding of membrane protein physical chemistry and molecular events in disease. 
-<br>
-<div class="col-md-7 order-md-3">
-    <img class="img-fluid" src="/static/img/MemProt_SeqDesign.png">
- </div>
- <div class="col-md-5 order-md-2 align-self-center">
-    <img class="img-fluid" src="/static/img/Xray_packingXtal.png">
- </div>
- <div class="col-md-5 order-md-1 align-self-center">
-    <img class="img-fluid" src="/static/img/Clean_Monomer-mEpoR_600x_assigned.png">
+ <img class="img-fluid" src="/static/img/Xray_packingXtal.png">
  </div>
 
 <br><br>

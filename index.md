@@ -14,5 +14,5 @@ We are hosted in the [Department of Integrative Structural and Computational Bio
 <br>
    We use protein design and integrative computational approaches to challenge our understanding of biomolecular structure, function, and physical chemistry.  
 <br>
-   Our research focuses on data-driven design of synthetic membrane proteins.  We engineering proteins to serve as simple model molecules to ask fundamental biophysical questions or custom chemical biology tools targeting cellular proteins directly at their lipid-embedded regions.  An overarching theme in the lab is studying the complex molecular features of transmembrane domains and their active roles in essential biological processes.
+   Our research focuses on detailing the complex molecular features transmembrane (TM) domains use to direct protein functional and structural states.  We use data-driven design of synthetic membrane proteins as an approach to isolate and study important TM sequence-structure motifs, embedded within a simple transparent model molecule.  A second theme in the lab is dissecting the active roles TM domains play in essential biological processes, for which we apply bioinformatics, molecular simulations, and custom engineered chemical biology tools that target cellular proteins directly at their lipid-embedded regions. 
 {: .welcomefont}

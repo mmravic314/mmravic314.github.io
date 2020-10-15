@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-<p align=”justify”>We are hosted in the [Department of Integrative Structural and Computational Biology](https://www.scripps.edu/science-and-medicine/research-departments/integrative-structural-and-computational-biology/) at [The Scripps Research Institute](https://www.scripps.edu/) on the sunny seaside La Jolla, California campus. We engineer membrane proteins! </p>
+<p align=”justify”>We are hosted in the [Department of Integrative Structural and Computational Biology](https://www.scripps.edu/science-and-medicine/research-departments/integrative-structural-and-computational-biology/) at [The Scripps Research Institute](https://www.scripps.edu/) on the sunny seaside La Jolla, California campus.</p> <br> We engineer membrane proteins! 
 {: .welcomefont}
 <br>
 <div class="row">

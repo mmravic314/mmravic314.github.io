@@ -3,7 +3,7 @@ title: Mravic Lab
 layout: home
 group: home
 ---
-<div align=”justify”>
+
 We are hosted in the [Department of Integrative Structural and Computational Biology](https://www.scripps.edu/science-and-medicine/research-departments/integrative-structural-and-computational-biology/) at [The Scripps Research Institute](https://www.scripps.edu/) on the sunny seaside La Jolla, California campus.
 <br> We engineer membrane proteins! 
 {: .welcomefont}
@@ -19,4 +19,4 @@ We engineer synthetic membrane proteins based on chemical 'rules' which we hypot
 <br><br>
 Our research focuses on defining the complex molecular features transmembrane (TM) domains use to direct protein functional and structural states, as well as dissecting the active roles TM domains play in essential biological processes.  
 {: .welcomefont}
-</div>
+

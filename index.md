@@ -3,8 +3,9 @@ title: Mravic Lab
 layout: home
 group: home
 ---
-
-<p align=”justify”>We are hosted in the [Department of Integrative Structural and Computational Biology](https://www.scripps.edu/science-and-medicine/research-departments/integrative-structural-and-computational-biology/) at [The Scripps Research Institute](https://www.scripps.edu/) on the sunny seaside La Jolla, California campus.</p> <br> We engineer membrane proteins! 
+<div align=”justify”>
+We are hosted in the [Department of Integrative Structural and Computational Biology](https://www.scripps.edu/science-and-medicine/research-departments/integrative-structural-and-computational-biology/) at [The Scripps Research Institute](https://www.scripps.edu/) on the sunny seaside La Jolla, California campus.
+<br> We engineer membrane proteins! 
 {: .welcomefont}
 <br>
 <div class="row">
@@ -12,9 +13,10 @@ group: home
 </div> 
 
 <br>
-<p align=”justify”> Mravic lab uses protein design and integrative computational approaches to challenge our understanding of biomolecular structure, function, and physical chemistry.  </p>
+Mravic lab uses protein design and integrative computational approaches to challenge our understanding of biomolecular structure, function, and physical chemistry. 
 <br><br>
-<p align=”justify”> We engineer synthetic membrane proteins based on chemical 'rules' which we hypothesize from bioinformatics, all-atom simulations, and molecular energy calculations.  Doing so allows us to produce simple model molecules custom-made to challenge important biophysical principles underlying protein structure and activity in lipid.   We also develop chemical biology tools targeting membrane proteins directly at their lipid-embedded regions. </p>
+We engineer synthetic membrane proteins based on chemical 'rules' which we hypothesize from bioinformatics, all-atom simulations, and molecular energy calculations.  Doing so allows us to produce simple model molecules custom-made to challenge important biophysical principles underlying protein structure and activity in lipid.   We also develop chemical biology tools targeting membrane proteins directly at their lipid-embedded regions. 
 <br><br>
-<p align=”justify”>Our research focuses on defining the complex molecular features transmembrane (TM) domains use to direct protein functional and structural states, as well as dissecting the active roles TM domains play in essential biological processes.  </p>
+Our research focuses on defining the complex molecular features transmembrane (TM) domains use to direct protein functional and structural states, as well as dissecting the active roles TM domains play in essential biological processes.  
 {: .welcomefont}
+</div>
